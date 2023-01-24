@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-**jzhang35/jzhang35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm James Zhang.
 
-Here are some ideas to get you started:
+Here's a little about me:
 
 - 🔭 I’m currently working on completing a computer programming certificate program.
 - 🌱 I’m currently learning Java and Markdown.
